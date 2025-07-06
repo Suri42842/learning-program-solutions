@@ -1,0 +1,7 @@
+Jul 05, 2025 11:10:00 PM org.springframework.context.support.ClassPathXmlApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@abcdef: startup date [Sat Jul 05 23:10:00 IST 2025]; root of context hierarchy
+Jul 05, 2025 11:10:00 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [applicationContext.xml]
+Constructor injection: BookRepository injected
+Setter injection: BookRepository injected again
+Book: Clean Code
