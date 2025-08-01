@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cohort Details Component should always render same html 1`] = `ShallowWrapper {}`;

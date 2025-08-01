@@ -1,0 +1,15 @@
+ .container {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.section {
+  flex: 1;
+  padding: 20px;
+}
+
+.border-left {
+  border-left: 3px solid green;
+}
