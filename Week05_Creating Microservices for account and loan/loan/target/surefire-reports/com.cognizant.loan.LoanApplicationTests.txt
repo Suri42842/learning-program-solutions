@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cognizant.loan.LoanApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.705 s -- in com.cognizant.loan.LoanApplicationTests
