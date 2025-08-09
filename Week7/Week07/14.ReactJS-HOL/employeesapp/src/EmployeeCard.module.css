@@ -1,0 +1,15 @@
+ .light {
+  color: black;
+  background-color: white;
+  padding: 5px;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.dark {
+  color: white;
+  background-color: black;
+  padding: 5px;
+  text-decoration: none;
+  margin-right: 10px;
+}

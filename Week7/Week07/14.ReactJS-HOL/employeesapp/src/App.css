@@ -1,0 +1,16 @@
+
+a {
+  display: inline-block;
+  margin:3px 5px;
+  padding: 5px 5px;
+  border-radius: 3px;
+ text-decoration: none;
+}
+a.dark{
+background-color: #333;
+color:#eee;
+}
+a.light{
+ background-color: #eee;
+ color:#333;
+}
